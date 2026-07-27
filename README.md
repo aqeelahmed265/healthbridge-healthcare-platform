@@ -100,10 +100,6 @@ npx pnpm db:seed
 npx pnpm dev
 ```
 - **Next.js Web Application**: http://localhost:3000
-- **NestJS API Service**: http://localhost:4000/api/v1
-- **Swagger OpenAPI Docs**: http://localhost:4000/api/docs
-- **MinIO Console**: http://localhost:9001 (User: `minioadmin`, Pass: `minioadmin`)
-
 ---
 
 ## Demo Accounts
